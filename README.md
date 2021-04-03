@@ -4,5 +4,5 @@
 
 
 <p align="center">
- <img margin-top='40' src="clone-interface-nubank.jpeg" width="350" title="hover text">
+ <img src="clone-interface-nubank.jpeg" width="350" title="hover text">
 </p>
